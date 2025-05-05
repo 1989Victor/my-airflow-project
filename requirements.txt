@@ -1,0 +1,9 @@
+awswrangler==3.11.0
+python-dotenv==1.1.0
+requests==2.32.3
+isort==6.0.1
+flake8==7.2.0
+boto3==1.38.8
+apache-airflow-providers-amazon==9.6.1
+apache-airflow-providers-openlineage==2.2.0
+
